@@ -1,6 +1,6 @@
-streamlit
+treamlit
 pandas
 numpy
-tensorflow
+tensorflow-cpu
 joblib
 scikit-learn
