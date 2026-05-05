@@ -4,7 +4,7 @@ A machine learning application that uses an **Artificial Neural Network (ANN)** 
 
 ## 🚀 Live Demo
 You can access the live application here: 
-**[Insert Your Streamlit URL Here]**
+(https://customer-churn-prediction-cb2zjdz7cxaimqxjgttlbe.streamlit.app/)
 
 ## 📝 Project Overview
 Customer churn is a critical metric for service-based businesses. This project implements a Deep Learning approach to identify high-risk customers, allowing businesses to take proactive retention measures.
@@ -25,5 +25,5 @@ The ANN consists of:
 4.  **Hidden Layer 2:** 8 neurons with **ReLU** activation.
 5.  **Output Layer:** 1 neuron with **Sigmoid** activation for binary classification.
 
-## DEMO LINK 
-https://customer-churn-prediction-cb2zjdz7cxaimqxjgttlbe.streamlit.app/
+
+
