@@ -1,4 +1,4 @@
-treamlit
+streamlit
 pandas
 numpy
 tensorflow-cpu==2.15.0
